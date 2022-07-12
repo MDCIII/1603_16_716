@@ -3,6 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 
 <urn:mdciii:1603:16()>
     a skos:ConceptScheme ;
@@ -25,50 +26,60 @@
 <urn:mdciii:1603:16:716:1:10>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:716:1:10" ;
-    skos:prefLabel "Bulawayo"@eng-Latn .
+    skos:prefLabel "Bulawayo"@eng-Latn ;
+    wdata:q7200235 "ZW10" .
 
 <urn:mdciii:1603:16:716:1:11>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:716:1:11" ;
-    skos:prefLabel "Manicaland"@eng-Latn .
+    skos:prefLabel "Manicaland"@eng-Latn ;
+    wdata:q7200235 "ZW11" .
 
 <urn:mdciii:1603:16:716:1:12>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:716:1:12" ;
-    skos:prefLabel "Mashonaland Central"@eng-Latn .
+    skos:prefLabel "Mashonaland Central"@eng-Latn ;
+    wdata:q7200235 "ZW12" .
 
 <urn:mdciii:1603:16:716:1:13>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:716:1:13" ;
-    skos:prefLabel "Mashonaland East"@eng-Latn .
+    skos:prefLabel "Mashonaland East"@eng-Latn ;
+    wdata:q7200235 "ZW13" .
 
 <urn:mdciii:1603:16:716:1:14>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:716:1:14" ;
-    skos:prefLabel "Mashonaland West"@eng-Latn .
+    skos:prefLabel "Mashonaland West"@eng-Latn ;
+    wdata:q7200235 "ZW14" .
 
 <urn:mdciii:1603:16:716:1:15>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:716:1:15" ;
-    skos:prefLabel "Matabeleland North"@eng-Latn .
+    skos:prefLabel "Matabeleland North"@eng-Latn ;
+    wdata:q7200235 "ZW15" .
 
 <urn:mdciii:1603:16:716:1:16>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:716:1:16" ;
-    skos:prefLabel "Matabeleland South"@eng-Latn .
+    skos:prefLabel "Matabeleland South"@eng-Latn ;
+    wdata:q7200235 "ZW16" .
 
 <urn:mdciii:1603:16:716:1:17>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:716:1:17" ;
-    skos:prefLabel "Midlands"@eng-Latn .
+    skos:prefLabel "Midlands"@eng-Latn ;
+    wdata:q7200235 "ZW17" .
 
 <urn:mdciii:1603:16:716:1:18>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:716:1:18" ;
-    skos:prefLabel "Masvingo"@eng-Latn .
+    skos:prefLabel "Masvingo"@eng-Latn ;
+    wdata:q7200235 "ZW18" .
 
 <urn:mdciii:1603:16:716:1:19>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:716:1:19" ;
-    skos:prefLabel "Harare"@eng-Latn .
+    skos:prefLabel "Harare"@eng-Latn ;
+    wdata:q7200235 "ZW19" .
 
