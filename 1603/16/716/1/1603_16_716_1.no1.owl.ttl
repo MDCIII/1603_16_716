@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:716:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:716:0> ;
     skos:prefLabel "Bulawayo"@eng-Latn ;
-    wdata:q7200235 "ZW10" ;
+    wdata:Q7200235 "ZW10" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -54,7 +54,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:716:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:716:0> ;
     skos:prefLabel "Manicaland"@eng-Latn ;
-    wdata:q7200235 "ZW11" ;
+    wdata:Q7200235 "ZW11" ;
 .
 
 <urn:mdciii:1603:16:716:1:12>
@@ -65,7 +65,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:716:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:716:0> ;
     skos:prefLabel "Mashonaland Central"@eng-Latn ;
-    wdata:q7200235 "ZW12" ;
+    wdata:Q7200235 "ZW12" ;
 .
 
 <urn:mdciii:1603:16:716:1:13>
@@ -76,7 +76,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:716:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:716:0> ;
     skos:prefLabel "Mashonaland East"@eng-Latn ;
-    wdata:q7200235 "ZW13" ;
+    wdata:Q7200235 "ZW13" ;
 .
 
 <urn:mdciii:1603:16:716:1:14>
@@ -87,7 +87,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:716:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:716:0> ;
     skos:prefLabel "Mashonaland West"@eng-Latn ;
-    wdata:q7200235 "ZW14" ;
+    wdata:Q7200235 "ZW14" ;
 .
 
 <urn:mdciii:1603:16:716:1:15>
@@ -98,7 +98,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:716:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:716:0> ;
     skos:prefLabel "Matabeleland North"@eng-Latn ;
-    wdata:q7200235 "ZW15" ;
+    wdata:Q7200235 "ZW15" ;
 .
 
 <urn:mdciii:1603:16:716:1:16>
@@ -109,7 +109,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:716:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:716:0> ;
     skos:prefLabel "Matabeleland South"@eng-Latn ;
-    wdata:q7200235 "ZW16" ;
+    wdata:Q7200235 "ZW16" ;
 .
 
 <urn:mdciii:1603:16:716:1:17>
@@ -120,7 +120,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:716:1:17" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:716:0> ;
     skos:prefLabel "Midlands"@eng-Latn ;
-    wdata:q7200235 "ZW17" ;
+    wdata:Q7200235 "ZW17" ;
 .
 
 <urn:mdciii:1603:16:716:1:18>
@@ -131,7 +131,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:716:1:18" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:716:0> ;
     skos:prefLabel "Masvingo"@eng-Latn ;
-    wdata:q7200235 "ZW18" ;
+    wdata:Q7200235 "ZW18" ;
 .
 
 <urn:mdciii:1603:16:716:1:19>
@@ -142,6 +142,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:716:1:19" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:716:0> ;
     skos:prefLabel "Harare"@eng-Latn ;
-    wdata:q7200235 "ZW19" ;
+    wdata:Q7200235 "ZW19" ;
 .
 
